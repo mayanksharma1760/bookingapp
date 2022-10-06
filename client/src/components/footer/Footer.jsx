@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="footer">
     
-      <div className="fText">Copyright © 2022 MayankBooking.</div>
+      <div className="fText"><strong>Copyright © 2022 MayankBooking.</strong> </div>
     </div>
   );
 };
